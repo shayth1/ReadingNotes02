@@ -7,5 +7,6 @@
 | Read-01      | 27/12/2020     | [Show](https://shayth1.github.io/ReadingNotes02/class-01) |
 | Read-02      | 28/12/2020     | [Show](https://shayth1.github.io/ReadingNotes02/class-02) |
 | Read-03      | 29/12/2020     | [Show](https://shayth1.github.io/ReadingNotes02/read-03) |
+| Read-04      | 29/12/2020     | [Show](https://shayth1.github.io/ReadingNotes02/read-04) |
 
 
