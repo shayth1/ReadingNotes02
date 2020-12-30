@@ -1,4 +1,4 @@
-# ReadingNotes02
+# Code 201 Reading Notes
 ![Readings](https://www.scotthyoung.com/blog/wp-content/uploads/2019/01/notes.png)
 ### below youll find all reads for level 2
 
