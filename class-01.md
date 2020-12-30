@@ -1,4 +1,4 @@
-![class-01](https://waytohunt.org/wp-content/uploads/2018/12/323-1.jpg)
+![class-01](https://waytohunt.org/wp-content/uploads/2018/12/323-1.jpg).
 
 #### Introduction
 >HyperText Markup Language (HTML), Cascading Style Sheets (CSS), and JavaScript are the languages that run the web. They’re very closely related, but they’re also designed for very specific tasks. Understanding how they interact will go a long way towards becoming a web developer.
