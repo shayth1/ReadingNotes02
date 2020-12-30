@@ -1,4 +1,4 @@
-![read02](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ18b_Jl4vmgqqHO7QTNPUoR71lm6LkU8gt6csKgh--WUUfLmwCvslGXPDIlUZ6Iv47F0Ak02UVS47pgQWYz29EJ-LY0z02mR6tRA&usqp=CAU&ec=45750088)
+![read02](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ18b_Jl4vmgqqHO7QTNPUoR71lm6LkU8gt6csKgh--WUUfLmwCvslGXPDIlUZ6Iv47F0Ak02UVS47pgQWYz29EJ-LY0z02mR6tRA&usqp=CAU&ec=45750088).
 
 # Read: class-02
 ### HTML Text
