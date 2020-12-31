@@ -10,5 +10,6 @@
 | Read-04      | 29/12/2020     | [Show](https://shayth1.github.io/ReadingNotes02/read-04) |
 | journal -02      | 29/12/2020     | [Show](https://shayth1.github.io/ReadingNotes02/journal02) |
 | journal -03      | 29/12/2020     | [Show](https://shayth1.github.io/ReadingNotes02/journal03) |
+| Read -05      | 31/12/2020     | [Show](https://shayth1.github.io/ReadingNotes02/read-05) |
 
 
