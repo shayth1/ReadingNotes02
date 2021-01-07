@@ -18,6 +18,8 @@ journal-06      | 3/1/2021     | [Show](https://shayth1.github.io/ReadingNotes02
 | Read-08      | 4/1/2021     | [Show](https://shayth1.github.io/ReadingNotes02/read-08) |
 journal-07      | 4/1/2021     | [Show](https://shayth1.github.io/ReadingNotes02/journal-07) |
 | Read-09      | 5/1/2021     | [Show](https://shayth1.github.io/ReadingNotes02/read-09) |
+| Read-10      | 6/1/2021     | [Show](https://shayth1.github.io/ReadingNotes02/read-10) |
+journal-09      | 6/1/2021     | [Show](https://shayth1.github.io/ReadingNotes02/journal09) |
  
  
 
