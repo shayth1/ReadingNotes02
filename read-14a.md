@@ -1,0 +1,7 @@
+# CSS animations
+![fjs](https://www.litmus.com/wp-content/uploads/2020/04/a-simple-guide-to-understanding-css-animations-in-email.png)
+
+> #### Definition and Usage
+*CSS Animations is a module of Cascading Style Sheets. It allows users to hover over objects and an animation will play. Currently, it is adopted by all major search engines. Despite the controversy from those who prefer animation via Javascript, the hover tag is now widely used across the Cascading Style Sheets community.*
+
+> Early on in the development of the CSS animation it had drawn concern from those who prefer animation via JavaScript[6] or, to a lesser-used extent, Synchronized Multimedia Integration Language (SMIL); others have claimed that it is a move by Apple Inc., the main sponsor of the WebKit project, to sidestep the inclusion of Adobe Flash (and the incumbent Flash animations) on the company's iOS line of mobile devices which use Safari.[7][8][9] Furthermore, although Cascading Style Sheets is a relatively easy to use programming language, many programmers still struggle with making animations. With this problem, several individuals and websites have developed and created open source CSS button animations with code[10] for users to copy. However, even with these previous controversies, CSS animations can be predominately found and widely used across the internet.
